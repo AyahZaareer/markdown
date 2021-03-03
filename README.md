@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AyahZaareer/markdown/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# What is Markdown?
+## Markdown is a way to style text on the web. We control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-### Markdown
+## We can use Markdouwn syntax in GitHub to style web site ,for example:
+**We use # in begging of line to write a header**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# The first header
 
-```markdown
-Syntax highlighted code block
+## The second header
 
-# Header 1
-## Header 2
-### Header 3
+### The third header
 
-- Bulleted
-- List
+**We can adding a image**
 
-1. Numbered
-2. List
+**![GitHub Logo](/images/logo.png)**
+Format: ![Alt Text](url)
+**We can write lists**
 
-**Bold** and _Italic_ and `Code` text
+#### Unordered
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+## Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   
+   
+**We can write links**
 
-[Link](url) and ![Image](src)
-```
+http://github.com - automatic!
+[GitHub](http://github.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AyahZaareer/markdown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
