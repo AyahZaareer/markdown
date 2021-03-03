@@ -31,7 +31,7 @@ Format: ![Alt Text](url)
    1. Item 3b
    
    
-**We can write links**
+*We can write links*
 
 http://github.com - automatic!
 [GitHub](http://github.com)
